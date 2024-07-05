@@ -1,0 +1,100 @@
+Rank: 1, Name: The Miseducation of Lauryn Hill, Artist: Lauryn Hill
+Rank: 2, Name: Thriller, Artist: Michael Jackson
+Rank: 3, Name: Abbey Road, Artist: The Beatles
+Rank: 4, Name: Purple Rain, Artist: Prince & The Revolution
+Rank: 5, Name: Blonde, Artist: Frank Ocean
+Rank: 6, Name: Songs in the Key of Life, Artist: Stevie Wonder
+Rank: 7, Name: Good Kid Maad city deluxe, Artist: Kendrick Lamar
+Rank: 8, Name: Back to Black, Artist: Amy Winehouse
+Rank: 9, Name: Nevermind, Artist: Nirvana
+Rank: 10, Name: Lemonade, Artist: Beyoncé
+Rank: 11, Name: Rumours, Artist: Fleetwood Mac
+Rank: 12, Name: OK Computer, Artist: Radiohead
+Rank: 13, Name: The Blueprint, Artist: Jay-Z
+Rank: 14, Name: Highway 61 Revisited, Artist: Bob Dylan
+Rank: 15, Name: 21, Artist: Adele
+Rank: 16, Name: Blue, Artist: Joni Mitchell
+Rank: 17, Name: What's Going On, Artist: Marvin Gaye
+Rank: 18, Name: 1989 (Taylor's Version), Artist: Taylor Swift
+Rank: 19, Name: The Chronic, Artist: Dr. Dre
+Rank: 20, Name: Pet Sounds, Artist: The Beach Boys
+Rank: 21, Name: Revolver, Artist: The Beatles
+Rank: 22, Name: Born to Run, Artist: Bruce Springsteen
+Rank: 23, Name: Discovery, Artist: Daft Punk
+Rank: 24, Name: The Rise and Fall of Ziggy Stardust and the Spiders From Mars, Artist: David Bowie
+Rank: 25, Name: Kind of Blue, Artist: Miles Davis
+Rank: 26, Name: My Beautiful Dark Twisted Fantasy, Artist: Kanye West
+Rank: 27, Name: Led Zeppelin II, Artist: Led Zeppelin
+Rank: 28, Name: The Dark Side of the Moon, Artist: Pink Floyd
+Rank: 29, Name: The Low End Theory, Artist: A Tribe Called Quest
+Rank: 30, Name: When We All Fall Asleep Where Do We Go?, Artist: Billie Eilish
+Rank: 31, Name: Jagged Little Pill, Artist: Alanis Morissette
+Rank: 32, Name: Ready to Die, Artist: Notorious B.I.G.
+Rank: 33, Name: Kid A, Artist: Radiohead
+Rank: 34, Name: It Takes a Nation of Millions to Hold Us Back, Artist: Public Enemy
+Rank: 35, Name: London Calling, Artist: The Clash
+Rank: 36, Name: Beyoncé, Artist: Beyoncé
+Rank: 37, Name: Enter the Wu-Tang (36 Chambers), Artist: Wu-Tang Clan
+Rank: 38, Name: Tapestry, Artist: Carole King
+Rank: 39, Name: Illmatic, Artist: Nas
+Rank: 40, Name: I Never Loved a Man the Way I Love You, Artist: Aretha Franklin
+Rank: 41, Name: Aquemini, Artist: OutKast
+Rank: 42, Name: Control, Artist: Janet Jackson
+Rank: 43, Name: Remain in Light, Artist: Talking Heads
+Rank: 44, Name: Innervisions, Artist: Stevie Wonder
+Rank: 45, Name: Homogenic, Artist: Björk
+Rank: 46, Name: Exodus, Artist: Bob Marley & The Wailers
+Rank: 47, Name: Take Care, Artist: Drake
+Rank: 48, Name: Paul's Boutique, Artist: Beastie Boys
+Rank: 49, Name: The Joshua Tree, Artist: U2
+Rank: 50, Name: Hounds of Love, Artist: Kate Bush
+Rank: 51, Name: Sign o' the Times, Artist: Prince
+Rank: 52, Name: Appetite for Destruction, Artist: Guns 'N Roses
+Rank: 53, Name: Exile on Main Street, Artist: The Rolling Stones
+Rank: 54, Name: A Love Supreme, Artist: John Coltrane
+Rank: 55, Name: Anti, Artist: Rihanna
+Rank: 56, Name: Disintegration, Artist: The Cure
+Rank: 57, Name: Voodoo, Artist: D'Angelo
+Rank: 58, Name: (What's the Story) Morning Glory?, Artist: Oasis
+Rank: 59, Name: AM, Artist: Arctic Monkeys
+Rank: 60, Name: The Velvet Underground and Nico, Artist: The Velvet Underground & Nico
+Rank: 61, Name: Love Deluxe, Artist: Sade
+Rank: 62, Name: All Eyez on Me, Artist: 2Pac
+Rank: 63, Name: Are You Experienced?, Artist: The Jimi Hendrix Experience
+Rank: 64, Name: Baduizm, Artist: Erykah Badu
+Rank: 65, Name: 3 Feet High and Rising, Artist: De La Soul
+Rank: 66, Name: The Queen Is Dead, Artist: The Smiths
+Rank: 67, Name: Dummy, Artist: Portishead
+Rank: 68, Name: Is This It, Artist: The Strokes
+Rank: 69, Name: Master of Puppets, Artist: Metallica
+Rank: 70, Name: Straight Outta Compton, Artist: N.W.A
+Rank: 71, Name: Trans-Europe Express, Artist: Kraftwerk
+Rank: 72, Name: SOS, Artist: SZA
+Rank: 73, Name: Aja, Artist: Steely Dan
+Rank: 74, Name: The Downward Spiral, Artist: Nine Inch Nails
+Rank: 75, Name: Supa Dupa Fly, Artist: Missy Eliott
+Rank: 76, Name: Un Verano Sin Ti, Artist: Bad Bunny
+Rank: 77, Name: Like a Prayer, Artist: Madonna
+Rank: 78, Name: Goodbye Yellow Brick Road, Artist: Elton John
+Rank: 79, Name: Norman Fucking Rockwell!, Artist: Lana Del Rey
+Rank: 80, Name: The Marshall Mathers LP, Artist: Eminem
+Rank: 81, Name: After the Gold Rush, Artist: Neil Young
+Rank: 82, Name: Get Rich or Die Tryin', Artist: 50 Cent
+Rank: 83, Name: Horses, Artist: Patti Smith
+Rank: 84, Name: Doggystyle, Artist: Snoop Dogg
+Rank: 85, Name: Golden Hour, Artist: Kacey Musgraves
+Rank: 86, Name: My Life, Artist: Mary J. Blige
+Rank: 87, Name: Blue Lines, Artist: Massive Attack
+Rank: 88, Name: I Put a Spell on You, Artist: Nina Simone
+Rank: 89, Name: The Fame Monster (Deluxe Edition), Artist: Lady Gaga
+Rank: 90, Name: Back in Black, Artist: AC/DC
+Rank: 91, Name: Listen Without Prejudice Vol. 1, Artist: George Michael
+Rank: 92, Name: Flower Boy, Artist: Tyler, the Creator
+Rank: 93, Name: A Seat at the Table, Artist: Solange
+Rank: 94, Name: Untrue, Artist: Burial
+Rank: 95, Name: Confessions, Artist: Usher
+Rank: 96, Name: Pure Heroine, Artist: Lorde
+Rank: 97, Name: Rage Against the Machine, Artist: Rage Against the Machine
+Rank: 98, Name: Astroworld, Artist: Travis Scott
+Rank: 99, Name: Hotel California, Artist: Eagles
+Rank: 100, Name: Body Talk, Artist: Robyn
